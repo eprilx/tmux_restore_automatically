@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+snapshot*.json
+*.json.tmp
+*.log
+restoring.lock
+local_settings.py
