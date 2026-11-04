@@ -57,7 +57,7 @@ tar cf - tmux_state.py snapshot.py restore.py local_settings.example.py | ssh ro
 Or clone the repository straight into that directory:
 
 ```bash
-git clone https://github.com/<user>/tmux_restore_automatically.git /root/tmux_restore
+git clone https://github.com/eprilx/tmux_restore_automatically.git /root/tmux_restore
 ```
 
 The rest of this guide assumes the scripts live in `/root/tmux_restore`.
